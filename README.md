@@ -12,5 +12,7 @@ Responsive Design: Ensures a consistent and enjoyable experience across differen
 Technology Stack:
 
 HTML5: Provides the structure of the game interface.
+
 CSS3: Styles the game board and layout.
+
 JavaScript: Implements the game logic and interactivity.
